@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangar_Doors", "Hangar_Entry_Light\Hangar_Doors.csproj", "{7AEDC52F-79BE-4EFA-9B54-2BB9A0BF6560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCDCombiner", "LCDCombiner\LCDCombiner.csproj", "{4F0F03B8-1BE5-47BB-8094-CB07605F9172}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AEDC52F-79BE-4EFA-9B54-2BB9A0BF6560}.Debug|x64.ActiveCfg = Debug|x64
+		{7AEDC52F-79BE-4EFA-9B54-2BB9A0BF6560}.Debug|x64.Build.0 = Debug|x64
+		{4F0F03B8-1BE5-47BB-8094-CB07605F9172}.Debug|x64.ActiveCfg = Debug|x64
+		{4F0F03B8-1BE5-47BB-8094-CB07605F9172}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CAF087D-216D-4519-B18C-FDE540B0E50D}
+	EndGlobalSection
+EndGlobal
